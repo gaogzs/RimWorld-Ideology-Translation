@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: beggars -->
-  <Beggars.label>丐帮</Beggars.label>
+  <Beggars.label>乞丐</Beggars.label>
   <!-- EN: A group of beggars seeking charity. -->
-  <Beggars.description>一群渴望救济的乞丐</Beggars.description>
+  <Beggars.description>一群渴望救济的乞丐。</Beggars.description>
   <!-- EN: beggar -->
-  <Beggars.pawnSingular>行乞者</Beggars.pawnSingular>
+  <Beggars.pawnSingular>乞丐</Beggars.pawnSingular>
   <!-- EN: beggars -->
-  <Beggars.pawnsPlural>行乞者</Beggars.pawnsPlural>
+  <Beggars.pawnsPlural>乞丐</Beggars.pawnsPlural>
   
   <!-- EN: cannibal pirate gang -->
   <CannibalPirate.label>食人海盗团</CannibalPirate.label>
@@ -31,7 +31,7 @@
   <!-- EN: pilgrims -->
   <Pilgrims.label>朝圣者</Pilgrims.label>
   <!-- EN: A group of pilgrims seeking to venerate an ancient relic. -->
-  <Pilgrims.description>一群想要朝拜一件远古遗物的朝圣者</Pilgrims.description>
+  <Pilgrims.description>一群想要朝拜一件远古圣物的朝圣者。</Pilgrims.description>
   <!-- EN: pilgrim -->
   <Pilgrims.pawnSingular>朝圣者</Pilgrims.pawnSingular>
   <!-- EN: pilgrims -->
